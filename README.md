@@ -1,4 +1,6 @@
-# Projet IA02 - Jeu Motus 
+# Projet Jeu Motus 
+
+Le projet est réalisé en cadre de l'UV IA02 - Résolution de problèmes et programmation logique
 
 1.  Ce qui marche dans notre application:
     Il y a 2 modes de jeu: 
@@ -21,3 +23,6 @@
        mauvaises positions) et LN (liste contient des lettres incorrectes); Ayant la condition, IA va éliminer les mots incorrectes dans le dictionnaire et retourne
        un nouveau dictionnaire contenant des mots favorables de la condition trouvée. 
        De 2e à N-ième fois: IA va proposer par hasard un mot dans le nouveau dictionnaire et faire le même chose que sa première tentative.
+
+# Auteurs
+Nu-Huyen-Trang PHAM et NAVARRO CORTES JESUS ALBERTO
